@@ -35,6 +35,11 @@ button:hover {
     color: #aaa;
     cursor: auto;
 }
+a {
+    padding-left: 15px;
+    font-style: italic;
+    color: blue;
+}
 
 /* everywhere else */
 * {
